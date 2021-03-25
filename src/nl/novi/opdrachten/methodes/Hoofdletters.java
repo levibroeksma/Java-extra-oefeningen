@@ -31,5 +31,6 @@ public class Hoofdletters {
         curstomerNames.add("henk den hartog");
         curstomerNames.add("mo el-mecky");
         curstomerNames.add("fredje kadetje");
+
     }
 }
